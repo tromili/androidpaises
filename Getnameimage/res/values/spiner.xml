@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="planets_array">
+    <item>Me gusto</item>
+    <item>No me gusto</item>
+    <item>Regular</item>
+
+</string-array>
+</resources>
